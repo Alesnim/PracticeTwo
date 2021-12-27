@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZBfXBZZM8j42TditcsEFfzit0ZLC65JS+nkipXpTJDWRdSvn2zlXVeWUnhepmXuW2BttGt3OsnSvNou3JepDkA==",
+  "success": true,
+  "projectFilePath": "/run/media/alesnim/Data/Documents/Work/Teaching/ООП-заоч/practice/PracticeTwo/Practice/Practice/Practice.csproj",
+  "expectedPackageFiles": [
+    "/home/alesnim/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.0/microsoft.aspnetcore.app.ref.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
